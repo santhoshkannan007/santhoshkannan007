@@ -48,7 +48,7 @@ Track daily expenses using a clean UI, charts, and MongoDB storage.
 - 💼 [LinkedIn](https://www.linkedin.com/in/santhosh-kannan) *(Update this link)*
 - 🌐 [Portfolio Website](https://your-portfolio-link.com) *(Optional)*
 - 📧 Email: santhosh.kannan@email.com *(Update this)*
-- 🗂️ GitHub: [github.com/your-username](https://github.com/santhoshkannan7)
+- 🗂️ GitHub: [github.com/santhoshkanann7](https://github.com/santhoshkannan7)
 
 ---
 
